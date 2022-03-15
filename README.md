@@ -1,4 +1,4 @@
-# tictactoe
+# Ember QA challenge
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
@@ -14,8 +14,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd tictactoe`
+* `git clone https://github.com/feedbackfruits/ember-qa-challenge.git` this repository
+* `cd ember-qa-challenge`
 * `npm install`
 
 ## Running / Development
@@ -38,14 +38,6 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `npm run lint`
 * `npm run lint:fix`
 
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
